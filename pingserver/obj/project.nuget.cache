@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8N2yNfQM2Qda6ul1BLGg3RumyKVPazAlJQ/Zo72gvRWJz8LlwnmUkHwq2j9dWi8sXYNoRJCS+NULEYDphrf3mQ==",
+  "success": true,
+  "projectFilePath": "\\\\127.0.0.1\\SGData$\\khoward\\Documents\\ping\\pingserver\\pingapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khoward\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\runtime.any.system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\runtime.any.system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.7\\microsoft.netcore.app.runtime.win-x64.7.0.7.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.7.nupkg.sha512",
+    "C:\\Users\\khoward\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x64.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
