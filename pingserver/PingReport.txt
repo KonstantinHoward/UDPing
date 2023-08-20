@@ -1,0 +1,18 @@
+Ping Report 06-27-09:24
+Package size=32 bytes. TTL=128.
+-----4 pings to 127.0.0.1-----
+1. Roundtrip in 252ms.
+2. Roundtrip in 731ms.
+3. Roundtrip in 645ms.
+4. Roundtrip in 618ms.
+-----4 pings to 127.0.0.1-----
+1. Roundtrip in 599ms.
+2. Roundtrip in 591ms.
+3. Roundtrip in 581ms.
+4. Roundtrip in 576ms.
+-----4 pings to 127.0.0.1-----
+1. Roundtrip in 573ms.
+2. Roundtrip in 566ms.
+3. Roundtrip in 547ms.
+4. Roundtrip in 553ms.
+------------------------------
