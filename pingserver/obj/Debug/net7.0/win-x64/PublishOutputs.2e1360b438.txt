@@ -1,0 +1,2 @@
+\\127.0.0.1\SGData$\khoward\Documents\ping\pingserver\UDPingServerApp\pingapp.pdb
+\\127.0.0.1\SGData$\khoward\Documents\ping\pingserver\UDPingServerApp\pingapp.exe

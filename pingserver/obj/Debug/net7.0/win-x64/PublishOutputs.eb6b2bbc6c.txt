@@ -1,0 +1,2 @@
+C:\SGData\khoward\Documents\UDPingServerApp\pingapp.pdb
+C:\SGData\khoward\Documents\UDPingServerApp\pingapp.exe
